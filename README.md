@@ -9,4 +9,5 @@ level1_4 로또의 최고순위와 최저순위
 level1_5 체육복   
 level1_6 숫자 문자열과 영단어   
 level1_7 완주하지 못한 선수   
-level1_8 내적
+level1_8 내적  
+8/2 weekly challenge
