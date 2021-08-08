@@ -12,4 +12,5 @@ level1_7 완주하지 못한 선수
 level1_8 내적  
 8/2 weekly challenge   
 level1_9 키패드 누르기   
-level1_10 음양 더하기
+level1_10 음양 더하기   
+level1_11 크레인 인형뽑기   
