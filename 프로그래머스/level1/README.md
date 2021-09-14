@@ -23,4 +23,5 @@ level1_16 두개 뽑아서 더하기.
 level1_17 실패율   
 4주차 weekly challenge.  
 level1_18 2016   
-level1_19 같은 숫자는 싫어
+level1_19 같은 숫자는 싫어.  
+level1_20 없는 숫자 더하기
